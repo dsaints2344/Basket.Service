@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basket.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31897c4718bb74c08ef3d47fbc29aabb8cf7140")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basket.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basket.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
